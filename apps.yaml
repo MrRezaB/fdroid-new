@@ -43,3 +43,7 @@ rockit:
 
   anti_features:
     - NonFreeNet
+
+    - name: OmidVPN
+  repo: https://github.com/code3-dev/OmidVPN
+  id: com.glyphack.omidvpn
